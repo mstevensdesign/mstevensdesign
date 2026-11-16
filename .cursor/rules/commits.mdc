@@ -1,0 +1,12 @@
+---
+description: Commit identity, UTC dates, and safety rules
+alwaysApply: true
+---
+
+# Commits and safety
+
+- Commits are authored as mstevensdesign, using that handle as both the name and the `users.noreply.github.com` address, with UTC dates. Set `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` in UTC, or run git with `TZ=UTC`.
+- Work on `agent/<tool>/<short-task>` branches, then open a pull request.
+- Normal pushes only: no force-push, no rebase, no history rewrites, and no branch deletes.
+- Agents never merge PRs, never push to main and never deploy. Stop at an open PR; the owner merges after a yes.
+- No personal details beyond what the owner put in the README: no home, family, town or location details.
