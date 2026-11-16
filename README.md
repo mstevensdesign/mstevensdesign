@@ -1,6 +1,6 @@
 # Mike Stevens
 
-I'm a developer-first designer and builder with a background in both IT and product design. I design, build, and maintain websites and web apps, and I'm moving deeper into agentic coding with Cursor cloud agents and Grok Bot.
+I'm a designer and builder with a background in both IT and product design. I design, build, and maintain websites and web apps, and I'm moving deeper into agentic coding with Cursor cloud agents and Grok Bot.
 
 **What I'm building**
 
